@@ -1,0 +1,170 @@
+.body{
+	margin: 0px;
+}
+.header{
+	width: 100%;
+	height: 80px;
+	border-bottom: 1px black solid;
+	margin-bottom: 10px;
+}
+.header a{
+	color: black;
+	text-decoration: none;
+	transition: 0.5s ease;
+}
+.header a:hover{
+	color: #F000FF;
+	transition: 0.5s ease;
+}
+.footer{
+	width: 100%;
+	height: 50px;
+	background-color: #71F697;
+	clear: both;
+}
+.f_text{
+	text-align: center;
+	padding-top: 13px;
+}
+.container{
+	margin: 0px auto;
+	width: 1024px;
+}
+.left_bar{
+	width: 200px;
+	height: 300px;
+	float: left;
+}
+.info1{
+	text-align: center;
+	font-family: sans-serif;
+}
+.info2{
+	text-align: center;
+	background-color: #5373CF;
+	border-radius: 5px;
+	font-family: sans-serif;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+.contacts{
+	width: 800px;
+	height: 500px;
+	background-color: #D0C6C6;
+	border-radius: 10px;
+	border: 1px black solid;
+	margin: 0px auto;
+	font-family: sans-serif;
+}
+.c_1{
+	text-align: center;
+	display: block;
+}
+.info_main{
+	background-color: #C2B5B5;
+	width: 800px;
+	margin: 0px auto;
+	height: 900px;
+	text-align: center;
+}
+.main_t{
+	text-align: center;
+	color: #5C5A5A;
+	padding: 0px;
+	margin: 0px;
+	font-family: sans-serif;
+}
+.this{
+	color: #960FFE;
+}
+.logotype{
+	width: 120px;
+	height: 80px;
+	float: left;
+}
+.h_ul{
+
+}
+.h_ul li{
+	display: inline-block;
+	border: 1px dashed black;
+	padding: 5px;
+	margin-right: 10px;
+}
+.h_but{
+	float: right;
+	margin-top: 7px;
+}
+.cat{
+	text-align: center;
+	background-color: green;
+	padding: 11px 0px 11px 0px;
+	border-radius: 20px 0px 20px 0px;
+}
+.c_title{
+	color: white;
+	font-family: sans-serif;
+}
+.select{
+	padding-left: 0px;
+	margin-left: 0px;
+}
+ul{
+	list-style-type: none;
+	padding-left: 5px;
+	font-family: sans-serif;
+}
+.cate li a{
+	text-decoration: none;
+	color: #0337F8;
+	transition: 0.5s ease;
+}
+.cate li a:hover{
+	color: #D44803;
+}
+.re{
+	color: #BE1D1D;
+}
+.main{
+	float: left;
+	width: 820px;
+	padding: 10px 0px 0px 0px;
+	text-align: center;
+}
+.tovar{
+	width: 198px;
+	height: 300px;
+	border: 1px black solid;
+	border-radius: 5px;
+	margin: 0px auto;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+.t_img{
+	width: 178px;
+	height: 150px;
+	margin: 10px;
+	border-radius: 5px;
+}
+.t_name{
+	text-align: center;
+	margin: 0px;
+	font-family: sans-serif;
+}
+.b_but{
+	border: 1px solid red;
+	border-radius: 4px;
+	width: 170px;
+	margin: 0px auto;
+}
+.but_text{
+	margin: 3px;
+	text-align: center;
+	color: red;
+	font-family: sans-serif;
+}
+.info{
+	width: 170px;
+	height: 70px;
+	margin: 0px auto;
+}
